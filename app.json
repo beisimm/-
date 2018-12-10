@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/cal/cal",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#66ffcc",
+    "navigationBarTitleText": "鹿财的计算器",
+    "navigationBarTextStyle":"black"
+  }
+}

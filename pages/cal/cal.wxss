@@ -1,0 +1,44 @@
+/* pages/cal/cal.wxss */
+.content{
+  height: 750px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: #ffffcc;
+  /* background-image: url("https://s1.ax1x.com/2018/12/10/FJmD0S.png"); */
+  /* background-repeat: repeat; */
+  padding-top: 30rpx;
+}
+.screen{
+  background-color: #e6e6e6;
+  border-radius: 10px;
+  text-align: right;
+  width: 690rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  padding-right: 10rpx;
+  margin-bottom: 30rpx;
+}
+.btnGroup{
+  display: flex;
+  flex-direction: row;
+
+}
+.item{
+  width:160rpx;
+  min-height: 150rpx;
+  margin: 10rpx;
+  /* text-shadow: 0 1px 1px rgba(0,0,0,.3); 阴影效果*/
+  border-radius: 10px;
+  text-align: center;
+  line-height: 150rpx;
+
+}
+.orange{
+  background-color: #ffcc66;
+
+}
+.blue{
+  background-color: #99ff99;
+}
